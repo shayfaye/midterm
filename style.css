@@ -1,0 +1,13 @@
+h1 {
+	font-size: 60px;
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic,sans-serif;
+	font-weight: bold;
+}
+h1:hover {
+	color: lightpink;
+}
+.pink {
+	background-color: lightpink;
+	display: inline-block;
+	
+}
