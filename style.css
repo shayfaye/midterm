@@ -59,7 +59,7 @@ h2 {
 	margin-top: 10px;
 }
 p {
-	margin-top:20px;
+	margin-top:25px;
 	margin-left: 100px;
 }
 img.gucci {
@@ -67,4 +67,5 @@ img.gucci {
 	height: 400px;
 	float: right;
 	margin-right: 100px;
+	margin-top:25px
 }
